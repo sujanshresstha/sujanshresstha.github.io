@@ -1,10 +1,11 @@
 const config = require('./src/config');
 
 module.exports = {
+  pathPrefix: "/sujanshresstha.github.io",
   siteMetadata: {
     title: 'Sujan Shrestha',
     description:
-      'Sujan Shrestha is a software engineer who specializes in building and designing websites, applications, IoT and everything in between.',
+      'Sujan Shrestha is a student of Electronics and Communicatioin Engineering at DITU based in Tokyo, Japan. Currently, I’m focused on building and designing websites, applications, IoT and everything in between.',
     siteUrl: 'https://sujanshresstha.github.io/', // No trailing slash allowed!
     image: '/images/demo.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@sujanshresstha',
@@ -152,7 +153,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: 'UA-45666519-2',
+        trackingId: 'G-VFFF5SZPVY',
       },
     },
   ],
