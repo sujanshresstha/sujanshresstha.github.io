@@ -1,6 +1,6 @@
 {
   "name": "v2",
-  "description": "Personal Website V2",
+  "description": "Personal Portfolio Website",
   "version": "1.0.0",
   "author": "Sujan Shrestha <sujanshresstha@gmail.com>",
   "repository": {
@@ -20,7 +20,14 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "prepare": "husky install",
-    "lint-staged": "lint-staged"
+    "lint-staged": "lint-staged",
+    "deploy": "gatsby build && gh-pages -d public -b master"
+  },
+  
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
   },
   "lint-staged": {
     "*.{js,css,json,md}": [

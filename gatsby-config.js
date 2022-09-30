@@ -6,7 +6,7 @@ module.exports = {
     description:
       'Sujan Shrestha is a software engineer who specializes in building and designing websites, applications, IoT and everything in between.',
     siteUrl: 'https://sujanshresstha.github.io/', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
+    image: '/images/demo.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@sujanshresstha',
   },
   plugins: [
