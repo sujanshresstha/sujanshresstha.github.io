@@ -1,5 +1,5 @@
 ---
-date: '2021-01'
+date: '2021-01-01'
 title: 'President'
 company: 'Student Alumni'
 location: 'Tokyo, Japan'
