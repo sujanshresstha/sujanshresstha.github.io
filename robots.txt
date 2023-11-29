@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://sujanshresstha.github.io/sitemap.xml
+Host: https://sujanshresstha.github.io
