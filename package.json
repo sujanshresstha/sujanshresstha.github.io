@@ -2,7 +2,7 @@
   "name": "v2",
   "description": "Personal Portfolio Website",
   "version": "1.0.0",
-  "author": "Sujan Shrestha <sujanshresstha@gmail.com>",
+  "author": "Sujan Shrestha <mail.sujanshrestha@gmail.com>",
   "repository": {
     "type": "git",
     "url": "https://github.com/sujanshresstha/sujanshresstha.github.io"
@@ -59,7 +59,7 @@
     "gatsby-transformer-sharp": "^3.4.0",
     "gh-pages": "^4.0.0",
     "lodash": "^4.17.19",
-    "prismjs": "^1.25.0",
+    "prismjs": "^1.27.0",
     "prop-types": "^15.7.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",

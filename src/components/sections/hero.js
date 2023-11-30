@@ -64,20 +64,20 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a student of Electronics and Communicatioin Engineering at 
+        I’m a Master's student in Information & Computer Sciences at the Graduate School of Engineering, 
         {' '}
-        <a href="https://ueno.daiichi-koudai.ac.jp/" target="_blank" rel="noreferrer">
-          DITU
+        <a href="https://kait.jp/" target="_blank" rel="noreferrer">
+          KAIT
         </a>
         {' '}
-        based in Tokyo, Japan. Currently, I’m focused on building and designing websites, applications, IoT and everything in between.
+        based in Kanagawa, Japan. My current endeavors revolve around crafting and shaping multimodal Vision Models, Full Stack Machine Learning Appkications, and delving into the world of data-driven technologies.
       </p>
     </>
   );
   const five = (
     <a
       className="email-link"
-      href="mailto:sujanshresstha@gmail.com"
+      href="mailto:mail.sujanshrestha@gmail.com"
       target="_blank"
       rel="noreferrer">
       Get In Touch

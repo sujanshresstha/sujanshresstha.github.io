@@ -125,12 +125,12 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript(ES6+)',  
-                  'Python', 
-                  'C', 
-                  'Java', 
-                  'Node.js', 
-                  'WordPress']; 
+  const skills = ['Python',  
+                  'Tensorflow', 
+                  'Numpy', 
+                  'Pands', 
+                  'Javascript', 
+                  'Node.js']; 
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -140,18 +140,14 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Sujan and I enjoy creating things like websites, applications and electronic things based on IoT.
-            </p>
-            <p>
-              Intrestingly, I got introduced to programming in my freshman year at 
-              {' '}
-              <a href="https://ueno.daiichi-koudai.ac.jp/" target="_blank" rel="noreferrer">
-                DITU
+              Hello there! I'm Sujan, a dedicated Master's student in Information &amp; Computer Sciences at the Graduate School of Engineering, {' '}
+              <a href="https://kait.jp" target="_blank" rel="noreferrer">
+              Kanagawa Institute of Technology
               </a>
-              {' '} where I'm going to complete my Bachelors in Electronics &amp; Communication Engineering.
+              {' '} . Passion defines my journey as a machine learning enthusiast, with a keen focus on unraveling the intricacies of Computer Vision.
             </p>
             <p>
-              I'm actively participating in all extra curricular activities during my University journey.
+              What sets my soul on fire? Full Stack Machine Learning Application development. I'm on a quest to seamlessly integrate the power of machine learning into every corner of the digital landscape.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

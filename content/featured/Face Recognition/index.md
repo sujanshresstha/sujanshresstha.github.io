@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '3'
 title: 'Face Recognition'
 cover: './demo.png'
 github: 'https://github.com/shrestha-sujan/face-recognition'
