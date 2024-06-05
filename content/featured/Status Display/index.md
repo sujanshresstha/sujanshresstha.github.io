@@ -1,5 +1,5 @@
 ---
-date: '5'
+date: '6'
 title: 'Status Display'
 cover: './demo.jpg'
 external: 'https://sujan.ditu.jp/displaying-status-of-raspberry-pi-with-oled/'

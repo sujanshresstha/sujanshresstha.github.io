@@ -128,8 +128,8 @@ const About = () => {
   const skills = ['Python',  
                   'Tensorflow', 
                   'Numpy', 
-                  'Pands', 
-                  'Javascript', 
+                  'Pytorch', 
+                  'Typescript', 
                   'Node.js']; 
 
   return (
@@ -144,10 +144,10 @@ const About = () => {
               <a href="https://kait.jp" target="_blank" rel="noreferrer">
               Kanagawa Institute of Technology
               </a>
-              {' '} . Passion defines my journey as a machine learning enthusiast, with a keen focus on unraveling the intricacies of Computer Vision.
+              {' '} . Ever since I discovered computer vision, I've been obsessed with its potential to see the world the way machines do.
             </p>
             <p>
-              What sets my soul on fire? Full Stack Machine Learning Application development. I'm on a quest to seamlessly integrate the power of machine learning into every corner of the digital landscape.
+            But that's not all ! Building full-stack machine learning applications gets me fired up. I'm on a quest to seamlessly integrate the power of machine learning into every corner of the digital landscape.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

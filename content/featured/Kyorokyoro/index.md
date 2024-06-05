@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '3'
 title: 'Kyorokyoro'
 cover: './demo.png'
 github: 'https://github.com/sujanshresstha/kyorokyoro'

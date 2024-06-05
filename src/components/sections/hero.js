@@ -70,7 +70,7 @@ const Hero = () => {
           KAIT
         </a>
         {' '}
-        based in Kanagawa, Japan. My current endeavors revolve around crafting and shaping multimodal Vision Models, Full Stack Machine Learning Appkications, and delving into the world of data-driven technologies.
+        based in Kanagawa, Japan. I'm fascinated by the potential of multimodal vision models and full-stack machine learning applications. Right now, I'm exploring how data-driven technologies can be used to create innovative solutions.
       </p>
     </>
   );
